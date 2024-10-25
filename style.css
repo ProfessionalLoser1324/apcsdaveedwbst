@@ -48,7 +48,8 @@ a:hover {
   margin-bottom: 10px;
 }
 
-#project-container {
+#project-container,
+#aboutme {
   margin: 0 auto;
   width: 90%;
   max-width: 600px;
